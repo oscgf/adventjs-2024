@@ -50,14 +50,14 @@ Currently, all solutions are implemented in JavaScript, and each challenge is st
 | Day 7  | Medium  | ⭐⭐⭐⭐ |
 | Day 8  | Easy    | ⭐⭐⭐ |
 | Day 9  | Medium  | ⭐ |
-| Day 10 | Medium    |  |
+| Day 10 | Medium  | ⭐⭐⭐⭐⭐ |
 | Day 11 | Easy    | ⭐⭐⭐⭐⭐ |
 | Day 12 | Easy    | ⭐⭐⭐⭐ |
 | Day 13 | Hard    |    |
 | Day 14 | Hard    | ⭐⭐⭐⭐⭐ |
 | Day 15 | Easy    | ⭐⭐⭐⭐ |
-| Day 16 | Easy    |   |
-| Day 17 | Medium  |    |
+| Day 16 | Easy    | ⭐⭐⭐⭐⭐ |
+| Day 17 | Medium  | ⭐⭐⭐⭐ |
 | Day 18 | Hard    |   |
 | Day 19 | Hard    |    |
 | Day 20 | Easy    | ⭐⭐⭐⭐⭐ |
