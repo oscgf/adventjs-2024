@@ -61,10 +61,10 @@ Currently, all solutions are implemented in JavaScript, and each challenge is st
 | Day 18 | Hard    | ⭐⭐⭐⭐ |
 | Day 19 | Hard    |    |
 | Day 20 | Easy    | ⭐⭐⭐⭐⭐ |
-| Day 21 | Easy    |   |
-| Day 22 | Medium  |    |
+| Day 21 | Easy    | ⭐⭐⭐ |
+| Day 22 | Medium  | ⭐⭐⭐⭐⭐ |
 | Day 23 | Easy    | ⭐⭐⭐⭐⭐ |
-| Day 24 | Medium  |    |
+| Day 24 | Medium  | ⭐⭐⭐⭐⭐ |
 | Day 25 | Medium  | ⭐⭐⭐⭐⭐ |
 | Day 26 | Easy    | ⭐⭐⭐⭐⭐ |
 
