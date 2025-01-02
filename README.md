@@ -53,13 +53,13 @@ Currently, all solutions are implemented in JavaScript, and each challenge is st
 | Day 10 | Medium  | ⭐⭐⭐⭐⭐ |
 | Day 11 | Easy    | ⭐⭐⭐⭐⭐ |
 | Day 12 | Easy    | ⭐⭐⭐⭐ |
-| Day 13 | Hard    |    |
+| Day 13 | Hard    | ⭐  |
 | Day 14 | Hard    | ⭐⭐⭐⭐⭐ |
 | Day 15 | Easy    | ⭐⭐⭐⭐ |
 | Day 16 | Easy    | ⭐⭐⭐⭐⭐ |
 | Day 17 | Medium  | ⭐⭐⭐⭐ |
 | Day 18 | Hard    | ⭐⭐⭐⭐ |
-| Day 19 | Hard    |    |
+| Day 19 | Hard    | ⭐⭐⭐⭐⭐  |
 | Day 20 | Easy    | ⭐⭐⭐⭐⭐ |
 | Day 21 | Easy    | ⭐⭐⭐ |
 | Day 22 | Medium  | ⭐⭐⭐⭐⭐ |
